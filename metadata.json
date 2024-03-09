@@ -1,0 +1,15 @@
+{
+    "name": "Test Coin",
+    "symbol": "TCIN",
+    "uri": "https://arweave.net/1234567890",
+    "seller_fee_basis_points": 0,
+    "creators": [
+      {
+        "address": "Fz39dbrrJ3pFGv1iG6hQ657qZ4j952qL83GqLQF6zV6d",
+        "share": 100
+      }
+    ],
+    "collection": null,
+    "uses": null
+  }
+  
