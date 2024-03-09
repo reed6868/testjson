@@ -1,11 +1,11 @@
 {
     "name": "Test Coin",
     "symbol": "TCIN",
-    "uri": "https://arweave.net/1234567890",
+    "uri": "https://coffee-key-kiwi-366.mypinata.cloud/ipfs/QmUYL82sLzpDWMzBtLCtxGUAkm9dYCgYjCBxTPKjfcVygf",
     "seller_fee_basis_points": 0,
     "creators": [
       {
-        "address": "Fz39dbrrJ3pFGv1iG6hQ657qZ4j952qL83GqLQF6zV6d",
+        "address": "Cw1Hqvgx9ax6JYXNiHG4T4W9aBX4vTHvD99FjonuqpyW",
         "share": 100
       }
     ],
